@@ -28,7 +28,7 @@
 ### 1. **Clone the Repository**  
 
 ```bash  
-git clone https://github.com/hrithik-shah/DeltaHacks2025.git  
+git clone https://github.com/AkshayTadi123/DeltaHacks.git  
 cd DeltaHacks2025  
 ```  
 
